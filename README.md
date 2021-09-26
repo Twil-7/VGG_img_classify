@@ -1,7 +1,6 @@
 # VGG_img_classify
 
-# 计算机视觉-图片分类：
-LeNet5、AlexNet、VGG遵循同一框架
+计算机视觉-图片分类：LeNet5、AlexNet、VGG遵循同一框架
 
 环境：opencv、keras
 
